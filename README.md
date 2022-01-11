@@ -3,7 +3,7 @@
 
 ## Getting Started
 ```bash
-curl -O https://raw.githubusercontent.com/avikus-ai/x86_ngrok/main/install.sh
+curl -O https://raw.githubusercontent.com/avikus-ai/x86_ngrok/master/install.sh
 chmod +x install.sh
 sudo ./install.sh <your_authtoken>
 ```
